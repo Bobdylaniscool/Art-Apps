@@ -1,6 +1,6 @@
 # JobSpot
-<p> This is the brilliant JobsSpot App!</P>
-</p> Tired of unemployment?
+<p> This is the brilliant JobsSpot App! </P>
+</p> Tired of unemployment? </p>
 Unsure of your qualifications?
 That's what JobSpot is for!
 JobSpot is the easy, efficient way of getting job!
