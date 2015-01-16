@@ -54,7 +54,7 @@ JobSpot signup
  
 <h1 id="logo">
  
-<a href="http://www.wufoo.com/?t=o2j5o6" title="Powered by Wufoo">Wufoo</a>
+<a href="http://www.wufoo.com/?t=o2j5o6" title="Powered by JobSpot">Wufoo</a>
  
 </h1>
  
