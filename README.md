@@ -1,5 +1,5 @@
 # JobSpot
-</p> This is the brilliant JobsSpot App!
+<p> This is the brilliant JobsSpot App!</P>
 </p> Tired of unemployment?
 Unsure of your qualifications?
 That's what JobSpot is for!
