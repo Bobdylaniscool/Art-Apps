@@ -1,4 +1,4 @@
-# Art-Apps
+# JobSpot
 This is the brilliant JobsSpot App!
 Tired of unemployment?
 Unsure of your qualifications?
