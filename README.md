@@ -1,2 +1,3 @@
 # Art-Apps
-I need help creating a landing site
+This is Team Thomas' JobsSpot App
+Tired of unemployment?
