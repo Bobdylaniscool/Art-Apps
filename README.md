@@ -1,6 +1,5 @@
 # <h1>JobSpot</h1>
-<p>This is the brilliant JobsSpot App!
-style="color:blue"</p>
+<p>This is the brilliant JobsSpot App!</p>
 <p>Tired of unemployment?</p>
 <p>Unsure of your qualifications?</p>
 <h3>That's what JobSpot is for!</h3>
@@ -15,4 +14,4 @@ JobSpot helps you choose the perfect job for you in a range of your choose of yo
  <param name="LOOP" value="false">
  <embed src="http://www.powtoon.com/show/cM6D1vKyD6Q/js" play="true" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer"; type="application/x-shockwave-flash" width="700" height="500">
  </object>
-<p>style="color:green<p>
+<pstyle="color:green<p>
