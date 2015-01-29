@@ -7,6 +7,7 @@ JobSpot is the easy, efficient way of getting job!
 JobSpot helps you choose the perfect job for you in a range of your choose of your house. It also only shows you jobs that comply with your qualifications that you imput when you start.
 <h3>Download today!</h3>
 <p>Unsure of downloading? Watch this video, made by our graphics expert!</p>
+<h3>http://www.powtoon.com/show/cM6D1vKyD6Q/js</h3>
 <object height="500" width="700" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0"; classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
  <param name="movie" value="http://www.powtoon.com/show/cM6D1vKyD6Q/js">
  <param name="quality" value="high">
