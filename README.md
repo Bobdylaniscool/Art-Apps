@@ -1,5 +1,6 @@
 # <h1>JobSpot</h1>
-<p>This is the brilliant JobsSpot App!</p>
+<p>This is the brilliant JobsSpot App!
+style="color:blue"</p>
 <p>Tired of unemployment?</p>
 <p>Unsure of your qualifications?</p>
 <h3>That's what JobSpot is for!</h3>
