@@ -15,3 +15,4 @@ JobSpot helps you choose the perfect job for you in a range of your choose of yo
  <param name="LOOP" value="false">
  <embed src="http://www.powtoon.com/show/cM6D1vKyD6Q/js" play="true" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer"; type="application/x-shockwave-flash" width="700" height="500">
  </object>
+<p>style="color:green<p>
