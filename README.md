@@ -10,7 +10,6 @@ JobSpot helps you choose the perfect job for you in a range of your choose of yo
 <h3>Download today!</h3>
 <p>Unsure of downloading? Watch this video, made by our graphics expert!</p>
 <h3>http://www.powtoon.com/show/cM6D1vKyD6Q/js</h3>
-<pstyle="color:green"p/>
-<bgcolor="#00FF00">
+<bgcolor="color:green">
 </body>
 
