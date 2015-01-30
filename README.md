@@ -1,5 +1,5 @@
 <body>
-<body text="0000FF>
+
 # <h1>JobSpot</h1>
 <p>This is the brilliant JobsSpot App!</p>
 <p>Tired of unemployment?</p>
@@ -18,5 +18,6 @@ JobSpot helps you choose the perfect job for you in a range of your choose of yo
  <embed src="http://www.powtoon.com/show/cM6D1vKyD6Q/js" play="true" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer"; type="application/x-shockwave-flash" width="700" height="500">
  </object>
 <pstyle="color:green"p/>
+<bgcolor="#00FF00"
 </body>
 
