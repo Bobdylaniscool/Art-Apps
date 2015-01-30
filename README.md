@@ -1,3 +1,4 @@
+<html>
 <body>
 # <h1>JobSpot</h1>
 <p>This is the brilliant JobsSpot App!</p>
@@ -10,3 +11,4 @@ JobSpot helps you choose the perfect job for you in a range of your choose of yo
 <p>Unsure of downloading? Watch this video, made by our graphics expert!</p>
 <h3>http://www.powtoon.com/show/cM6D1vKyD6Q/js</h3>
 <body/>
+<html/>
