@@ -1,4 +1,5 @@
 <body>
+<body text="0000FF"
 # <h1>JobSpot</h1>
 <p>This is the brilliant JobsSpot App!</p>
 <p>Tired of unemployment?</p>
